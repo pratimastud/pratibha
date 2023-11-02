@@ -1,2 +1,6 @@
 This file is pushed to remote 
+<<<<<<< HEAD
 balaji nanaware
+=======
+this is resolving conflicts
+>>>>>>> 87190ad8336093acce52a5b0f1f394ff94aba685
